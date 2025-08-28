@@ -26,7 +26,8 @@ The Senior Manager's needs revolve around 3 main questions:
 
 **1. OVERVIEW**
 
-<img width="1329" height="747" alt="image" src="https://github.com/user-attachments/assets/75fefc09-f4a2-475a-a077-c6c8d8efccae" />
+<img width="1332" height="753" alt="image" src="https://github.com/user-attachments/assets/3db57683-8bd7-4596-b8ed-9b587fa93d83" />
+
 
 **2. PRODUCT**
 
@@ -46,9 +47,9 @@ The Senior Manager's needs revolve around 3 main questions:
 
 **6. INSIGHT + RECOMMENDATION**
 
-- SUB-CATEGORY  "TABLE" có tỉ lệ hoàn hàng lớn nhất + đang khiến công ty lỗ nhiều nhất => loại bỏ mặt hàng này
-- Các mặt hàng công nghệ đang mang lại lợi nhuận lớn cho công ty và vẫn đang trên đà tăng trường => công ty nên đẩy mạnh
-- Tệp Consumer chiếm phần lớn trong Profit của Công ty và vẫn đang trên đà tăng trưởng (càng ngày càng mua hàng nhiều hơn, mang đến nhiều lợi nhuận hơn) => công ty nên tiếp tục tập trung phát triển sản phẩm cho tệp này
+- SUB-CATEGORY "TABLE" has the highest return rate + is causing the company to lose the most => remove this item
+- Technology items are bringing in big profits for the company and are still on the rise => the company should promote
+- Consumer files account for the majority of the Company's Profit and are still on the rise (buying more and more, bringing in more profits) => the company should continue to focus on developing products for this file
 
 
 
