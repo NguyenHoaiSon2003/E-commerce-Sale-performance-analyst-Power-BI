@@ -1,4 +1,4 @@
-# -POWER-BI-Business-analysis-of-e-commerce-company
+# E-commerce  sale performance analyst (POWER BI)
 Senior manager wants to see information about business situation to make market expansion strategy and decide on strategic product selection.
 
 **I. INTRODUCTION**
