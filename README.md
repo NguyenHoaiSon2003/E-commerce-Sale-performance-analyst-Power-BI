@@ -26,30 +26,85 @@ The Senior Manager's needs revolve around 3 main questions:
 
 **1. OVERVIEW**
 
-<img width="1332" height="753" alt="image" src="https://github.com/user-attachments/assets/3db57683-8bd7-4596-b8ed-9b587fa93d83" />
+<img width="1289" height="729" alt="image" src="https://github.com/user-attachments/assets/22ec087b-3625-41ff-bc41-09350b9e5f87" />
+  
++ Total revenue reached 1.47M with over 12.64M sales from 1,590 customers.
 
++ Revenue is mainly concentrated in Home Office (51%), followed by Corporate (30%) and Consumer (18%).
+
++ The products with the highest revenue are mainly phones.
+
++ Sales and profit show a steady upward trend across quarters, with profit margin around 10–13%.
+
++ Major contributing regions include Central, North, South, and EMEA, but profit margins vary significantly by market.
 
 **2. PRODUCT**
 
-<img width="1331" height="750" alt="image" src="https://github.com/user-attachments/assets/4931a1a1-f783-42ea-8ca1-6dbaeef63e0f" />
+<img width="1288" height="728" alt="image" src="https://github.com/user-attachments/assets/22150174-0144-4e72-88da-9c729cc03774" />
+
++ Technology drives strong sales growth but some items (e.g., 3D Printers, Laser Printers) cause large losses → phase out or renegotiate with suppliers to cut negative impact.
+
++ Return rates are highest in Tables and Appliances (>7%) → improve product quality checks and after-sales support to reduce return costs.
+
++ Copiers, Phones, and Storage deliver high profits → allocate more marketing and inventory to expand these winning sub-categories.
+
++ Office Supplies and Furniture grow steadily but with lower margins → optimize pricing and cost control to enhance profitability.
+
 
 **3. LOGISTIC AND RETURN**
 
-<img width="1328" height="749" alt="image" src="https://github.com/user-attachments/assets/46294ebf-9b8e-4a1e-ab4c-43ddc055cb8d" />
+<img width="1288" height="729" alt="image" src="https://github.com/user-attachments/assets/893ba326-2bc0-45b5-b573-debeb5daf371" />
+
++ North Asia and West have the highest return rates (>11%) → investigate product quality and logistics in these regions to reduce losses.
+
++ Sub-categories like Tables, Appliances, and Fasteners show high return rates (>7%) → review suppliers and strengthen quality assurance.
+
++ Standard Class shipping takes the longest delivery time (5 days) and has relatively high returns → optimize shipping process or encourage customers to shift to faster modes.
+
++ Return rate remains stable over time (~4–5%) → set a target to bring it below 4% through better packaging, delivery, and customer support.
+
 
 **4. CUSTOMER AND SEGMENT**
 
-<img width="1331" height="747" alt="image" src="https://github.com/user-attachments/assets/f9e877a6-12c8-4a5e-be59-c274f05ff12f" />
+<img width="1292" height="730" alt="image" src="https://github.com/user-attachments/assets/07f11b3b-f459-4c1a-b34d-1d3401b04c03" />
+
++ Consumer segment contributes the highest sales and profit but with moderate margin → maintain volume growth while improving pricing strategy.
+
++ Corporate and Home Office segments have lower sales but higher margins → invest in targeted marketing to capture more value.
+
++ Central and South regions have the largest customer bases → expand distribution and loyalty programs to strengthen these strongholds.
+
++ A small number of customers (Top 5) generate significant profit → develop retention plans and personalized offers to secure long-term relationships.
+
 
 **5. REGION**
 
-<img width="1331" height="752" alt="image" src="https://github.com/user-attachments/assets/a422467b-d429-4131-b221-4468668e7c99" />
+<img width="1291" height="727" alt="image" src="https://github.com/user-attachments/assets/0b7252a3-e11d-472a-9be6-6bd0bda21e8c" />
 
-**6. INSIGHT + RECOMMENDATION**
++ The US generates the highest profit, while many other regions contribute marginally → prioritize the US for core investment while exploring growth in mid-tier markets like China and India.
 
-- SUB-CATEGORY "TABLE" has the highest return rate + is causing the company to lose the most => remove this item
-- Technology items are bringing in big profits for the company and are still on the rise => the company should promote
-- Consumer files account for the majority of the Company's Profit and are still on the rise (buying more and more, bringing in more profits) => the company should continue to focus on developing products for this file
++ West and EMEA have the highest return rates (11.7% and 10%) → strengthen quality control and review product-market fit in these areas.
+
++ Sales show steady growth across markets, with the US and EMEA leading → allocate more resources to sustain momentum and capture market share.
+
++ Profit margin is high in Caribbean and Central Asia despite lower sales → expand targeted campaigns to maximize profitability in these niche markets.
+
+
+**6. FINAL CONCLUSIONS & RECOMMENDATIONS** 
+
+The company is experiencing strong growth with Consumer segment and US market as the main drivers of revenue and profit. However, some regions such as EMEA and West face high return rates and weaker margins, signaling a need for better product adaptation and quality control. At the same time, emerging regions like Central Asia and the Caribbean, though smaller in sales, show high profitability and potential for expansion. In addition, a few key customers contribute significantly to profit, emphasizing the importance of customer relationship management.
+
+Recommendations:
+
++ Consolidate presence in high-performing segments (Consumer) and markets (US) to strengthen market share.
+
++ Improve product quality and localization in underperforming regions to reduce return rates and boost margins.
+
++ Allocate resources to grow niche but profitable markets (Central Asia, Caribbean) for long-term expansion.
+
++ Develop loyalty and retention programs for top customers to secure stable and sustainable revenue streams.
+
+
 
 
 
