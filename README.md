@@ -4,16 +4,7 @@ Senior manager wants to see information about business situation to make market 
 
 **I. INTRODUCTION**
 
-Dataset stores sales information worldwide of a company called Superstore. The company operates in many different markets, spanning across continents. The company is in a strong growth phase, they need to increase revenue in the markets to expand market share
-
-**II. Dataset structure:**
-
-Includes 3 data tables:
-- Orders: table to store transaction information
-- People: table to store information of sellers in each region
-- Returns: table to record returned transactions
-
-**III. PROBLEM**
+Dataset stores sales information worldwide of a company called Superstore. The company operates in many different markets, spanning across continents. The company is in a strong growth phase, they need to increase revenue in the markets to expand market share.
 
 Senior manager wants to grasp information about the company's business situation to develop a market expansion strategy and decide on strategic product selection.
 The Senior Manager's needs revolve around 3 main questions:
@@ -23,7 +14,14 @@ The Senior Manager's needs revolve around 3 main questions:
 
 -> Need to create a dashboard to help stakeholders solve those needs.
 
-**IV. VISUALIZATION**
+**II. Dataset structure:**
+
+Includes 3 data tables:
+- Orders: table to store transaction information
+- People: table to store information of sellers in each region
+- Returns: table to record returned transactions
+
+**III. VISUALIZATION**
 
 **1. OVERVIEW**
 
