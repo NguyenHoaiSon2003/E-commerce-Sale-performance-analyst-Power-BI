@@ -80,7 +80,7 @@ The Senior Manager's needs revolve around 3 main questions:
 
 **5. REGION**
 
-<img width="1291" height="727" alt="image" src="https://github.com/user-attachments/assets/0b7252a3-e11d-472a-9be6-6bd0bda21e8c" />
+<img width="1339" height="751" alt="image" src="https://github.com/user-attachments/assets/b707bb06-0687-4431-9a81-0ca2e03c22c1" />
 
 + The US generates the highest profit, while many other regions contribute marginally → prioritize the US for core investment while exploring growth in mid-tier markets like China and India.
 
