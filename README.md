@@ -1,4 +1,4 @@
-# Analyze the sales performance of SuperStore - a global e-commerce company specializing in furniture, office supplies, and technology | Power BI
+# E-commerce Sale performance analyst  | Power BI
 
 Senior manager wants to see information about business situation to make market expansion strategy and decide on strategic product selection.
 
