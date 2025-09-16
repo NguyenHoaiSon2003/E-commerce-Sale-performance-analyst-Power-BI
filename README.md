@@ -29,7 +29,7 @@ Includes 3 data tables:
 
 + Total profit reached 1.47M with over 12.64M sales from 1,590 customers.
 
-+ Revenue is mainly concentrated in Home Office (51%), followed by Corporate (30%) and Consumer (18%).
++ Revenue is mainly concentrated in Consumer (51%), followed by Corporate (30%) and Home Office (18%).
 
 + The products with the highest revenue are mainly phones.
 
