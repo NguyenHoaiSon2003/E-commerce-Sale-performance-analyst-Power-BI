@@ -25,9 +25,9 @@ Includes 3 data tables:
 
 **1. OVERVIEW**
 
-<img width="1289" height="729" alt="image" src="https://github.com/user-attachments/assets/22ec087b-3625-41ff-bc41-09350b9e5f87" />
-  
-+ Total revenue reached 1.47M with over 12.64M sales from 1,590 customers.
+<img width="1331" height="751" alt="image" src="https://github.com/user-attachments/assets/8b878326-a8e9-4c07-804c-427e314da78c" />
+
++ Total profit reached 1.47M with over 12.64M sales from 1,590 customers.
 
 + Revenue is mainly concentrated in Home Office (51%), followed by Corporate (30%) and Consumer (18%).
 
